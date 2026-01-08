@@ -15,7 +15,7 @@ Specifically:
 <img width="820" height="488" alt="image" src="https://github.com/user-attachments/assets/99d3662e-de6e-41ce-b39f-1aed4eeb8319" />
 
    - The business is highly seasonal, creating revenue volatility and planning risk
-   - Two products alone generate ~25% of total sales → concentration risk
+   - Two products alone generate 25% of total sales → concentration risk
    - Wholesale drives 54% of volume, but Export is the most profitable channel
    - California dominates performance → geographic dependency risk
    - Some large enterprise customers generate high revenue but weak margins
@@ -33,7 +33,7 @@ Specifically:
    - Wholesale = scale, lower margins
    - Export = smaller scale, highest margins (38%)
 - Geographic Dependency:
-   - California alone generates ~$230M and 7.6K orders
+   - California alone generates $230M and 7.6K orders
    - West region dominates; Northeast & Midwest underperform
 - Customer Profitability Imbalance:
    - Some $6–9M customers are more profitable than $10M+ customers
