@@ -20,6 +20,10 @@ Specifically:
    - Profit is driven far more by pricing than by volume
 
 ## Key Findings
+
+<img width="820" height="488" alt="image" src="https://github.com/user-attachments/assets/b3ec7aa5-78df-430d-aca8-ac304c7c4c7c" />
+
+
 - Seasonality Risk: Revenue bottoms out in April and peaks in late spring / early summer, creating cash-flow and planning instability.
 - SKU Concentration: Products 25 and 26 account for ~25% of total revenue.
 - Channel Tradeoff:
