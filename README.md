@@ -12,6 +12,8 @@ Specifically:
    - Channel strategy is volume-driven, not profit-optimized
 
 ## Executive Snapshot
+<img width="820" height="488" alt="image" src="https://github.com/user-attachments/assets/99d3662e-de6e-41ce-b39f-1aed4eeb8319" />
+
    - The business is highly seasonal, creating revenue volatility and planning risk
    - Two products alone generate ~25% of total sales → concentration risk
    - Wholesale drives 54% of volume, but Export is the most profitable channel
@@ -22,6 +24,7 @@ Specifically:
 ## Key Findings
 
 <img width="820" height="488" alt="image" src="https://github.com/user-attachments/assets/b3ec7aa5-78df-430d-aca8-ac304c7c4c7c" />
+
 
 
 - Seasonality Risk: Revenue bottoms out in April and peaks in late spring / early summer, creating cash-flow and planning instability.
