@@ -11,10 +11,26 @@ Specifically:
    - High-revenue customers may be silently eroding margins
    - Channel strategy is volume-driven, not profit-optimized
 
-## Executive Snapshot (What Leadership Learns)
+## Executive Snapshot
    - The business is highly seasonal, creating revenue volatility and planning risk
    - Two products alone generate ~25% of total sales → concentration risk
    - Wholesale drives 54% of volume, but Export is the most profitable channel
    - California dominates performance → geographic dependency risk
    - Some large enterprise customers generate high revenue but weak margins
    - Profit is driven far more by pricing than by volume
+
+## Key Findings
+- Seasonality Risk: Revenue bottoms out in April and peaks in late spring / early summer, creating cash-flow and planning instability.
+- SKU Concentration: Products 25 and 26 account for ~25% of total revenue.
+- Channel Tradeoff:
+   - Wholesale = scale, lower margins
+   - Export = smaller scale, highest margins (~38%)
+- Geographic Dependency:
+   - California alone generates ~$230M and 7.6K orders
+   - West region dominates; Northeast & Midwest underperform
+- Customer Profitability Imbalance:
+   - Some $6–9M customers are more profitable than $10M+ customers
+   - Indicates discounting and pricing discipline issues
+- Profit Driver:
+   - Unit price is the strongest driver of profit
+   - Volume has relatively weak impact on profitability
