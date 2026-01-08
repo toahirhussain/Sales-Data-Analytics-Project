@@ -109,6 +109,6 @@ This is not a reporting exercise. This is a decision-support system that:
    - Shows where growth is real vs. where it is fragile
    - Enables leadership to reallocate investment with confidence
 
-Power BI Intereactive Dashboard:
+## Power BI Intereactive Dashboard:
 
 <img width="1315" height="820" alt="image" src="https://github.com/user-attachments/assets/6d46ae33-b05f-47fc-a51b-714488cde8cc" />
