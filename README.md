@@ -58,3 +58,22 @@ This solution transforms fragmented reporting into a single source of truth that
    - More profitable growth decisions
    - Better regional and channel investment allocation
    - Proactive margin protection
+
+## What Was Delivered
+- Executive-ready Power BI dashboard (3 pages):
+   - Performance Overview
+   - Customer & Margin Segmentation
+   - Revenue & Scenario Analysis
+
+- Fully modeled analytics dataset
+- A reusable decision-support framework for leadership
+
+## How This Was Built (Technical Summary)
+- Integrated sales, product, customer, region, state, and budget tables
+- Cleaned, standardized, and feature-engineered the dataset
+- Built profit and margin metrics
+- Performed:
+   - Time-series analysis
+   - Product, customer, channel, and regional segmentation
+   - Correlation & driver analysis
+- Deployed Power BI dashboards for self-serve analytics
