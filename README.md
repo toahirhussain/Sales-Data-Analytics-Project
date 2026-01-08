@@ -37,17 +37,17 @@ Specifically:
  
   
 ## Strategic Recommendations
-- Stabilize Seasonality
+- Stabilize Seasonality:
 Launch April demand recovery campaigns and strengthen January sales programs.
 
-- Optimize Product Portfolio
+- Optimize Product Portfolio:
 Protect and scale top SKUs (25 & 26). Reprice, bundle, or retire structurally weak products.
 
-- Rebalance Channel Strategy
+- Rebalance Channel Strategy:
 Grow Export for margin. Use Wholesale strategically for volume, not profit illusion.
 
-- Reduce Geographic Risk
+- Reduce Geographic Risk:
 Replicate California’s operating model in high-potential states. Invest in Northeast & Midwest.
 
-- Enforce Margin Governance
+- Enforce Margin Governance:
 Flag and review low-margin enterprise deals to prevent silent margin erosion.
