@@ -68,12 +68,39 @@ This solution transforms fragmented reporting into a single source of truth that
 - Fully modeled analytics dataset
 - A reusable decision-support framework for leadership
 
-## How This Was Built (Technical Summary)
-- Integrated sales, product, customer, region, state, and budget tables
-- Cleaned, standardized, and feature-engineered the dataset
-- Built profit and margin metrics
-- Performed:
-   - Time-series analysis
-   - Product, customer, channel, and regional segmentation
+## Project Execution (Technical Overview)
+
+This project followed a production-style analytics workflow:
+
+1. Data Engineering & Preparation
+   - Integrated sales, products, customers, regions, states, and budget tables
+   - Standardized schemas, cleaned columns, engineered profit & margin features
+   - Built a single analytics-ready fact dataset
+   - Validated: no missing values, no duplicates
+
+2. Feature Engineering
+- Created:
+   - Profit
+   - Profit margin %
+   - Calendar features (month, year)
+   - Geographic mappings (state → region)
+
+3. Exploratory Analysis
+   - Time-series trend analysis
+   - Product & customer segmentation
+   - Channel profitability analysis
+   - Regional performance mapping
    - Correlation & driver analysis
-- Deployed Power BI dashboards for self-serve analytics
+
+4. Business Intelligence Layer
+   - Designed stakeholder-ready Power BI dashboards
+   - Focused on:
+      - Executive readability
+      - Decision support
+      - Drill-down analysis paths
+    
+## Why This Project Matters
+This is not a reporting exercise. This is a decision-support system that:
+   - Exposes structural revenue and margin risks
+   - Shows where growth is real vs. where it is fragile
+   - Enables leadership to reallocate investment with confidence
